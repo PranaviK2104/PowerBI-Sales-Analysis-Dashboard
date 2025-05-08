@@ -1,4 +1,4 @@
-![Banner](images/banner.png)
+![Banner](images/Sales_analysis_Dashbord.png)
 # Sales Analysis Dashboard - Power BI
 
 ## Overview
