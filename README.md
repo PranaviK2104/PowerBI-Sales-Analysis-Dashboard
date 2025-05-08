@@ -1,4 +1,4 @@
-![Banner] (https://github.com/PranaviK2104/PowerBI-Sales-Analysis-Dashboard/blob/main/images/banner.png)
+![Banner](images/banner.png)
 # Sales Analysis Dashboard - Power BI
 
 ## Overview
