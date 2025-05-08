@@ -26,9 +26,3 @@ The dashboard includes interactive filters to allow for custom analysis:
 ### Prerequisites
 
 - **Power BI Desktop**: To view and interact with the dashboard, ensure you have Power BI Desktop installed on your machine. You can download it for free from [here](https://powerbi.microsoft.com/downloads/).
-
-### How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/sales-analysis-dashboard.git
